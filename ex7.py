@@ -11,4 +11,4 @@ for i in range (0,n -1):
     j+=1
     k+=1
 if nao:
-    print("Este número não satisfaz a propriedadde")
+    print("Este número não satisfaz a propriedade")
